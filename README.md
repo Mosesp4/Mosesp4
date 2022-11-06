@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Echela Christopher Moses here...
 
 - 👀 I’m interested in everything that concerns Blockchain development.
-- 🌱 I’m currently learning solidity & web3.js .
+- 🌱 I’m currently learning solidity programming, Smart Contract and Blockchain @ Hi-Mark Academy.
 - 💞️ Open to remote collaborations.
 - You can reach me via email on echelamoses@gmail.com
 
