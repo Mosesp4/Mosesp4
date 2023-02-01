@@ -1,9 +1,11 @@
-- 👋 Hi, I’m Echela Christopher Moses here...
+- 👋 Hi, It's Echela Christopher Moses here.
 
-- 👀 I’m interested in everything that concerns Blockchain development.
-- 🌱 I’m currently learning solidity programming, Smart Contract and Blockchain @ Hi-Mark Academy.
-- 💞️ Open to remote collaborations.
+- 👀 I’m interested in everything that concerns Web & Blockchain development.
+- 🌱 Currently learning solidity programming, Smart Contract and Blockchain development with Hi-Mark Academy.
+- 💞️ Open to remote and open source collaborations.
 - You can reach me via email on echelamoses@gmail.com
+
+Let's connect on LinkedIn: https://www.linkedin.com/mwlite/in/moses-echela-78845b260
 
 
 <!---
