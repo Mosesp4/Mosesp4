@@ -8,7 +8,7 @@ Driven and skilled full-stack Solidity developer intern with a passion for utili
 
 * 🌍  I'm based in Abuja
 * ✉️  You can contact me at [echelamoses@gmail.com](mailto:echelamoses@gmail.com)
-* 🧠  I'm enthusiastic about AI & WEB 3.0
+* 🧠  I'm enthusiastic about creating aesthetically pleasing UI for the web and Blockchain.
 * 🤝  I'm open to collaborating on Front-end & Decentralized Application
 
 ### Skills
