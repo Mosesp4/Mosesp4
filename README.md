@@ -4,12 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Frontend Developer || Javascript || Typescript || React || Smart Contract with Solidity || Blockchain technology || Web3.0
 --------------------------------------------------------------------------
 
-Driven and skilled full-stack Solidity developer intern with a passion for utilizing blockchain technology to create innovative solutions. Proficient in Javascript and React, and knowledgeable in Web 3.0 technologies, I am committed to delivering high-quality code and exceptional user experiences. With a keen attention to detail and a problem-solving mindset, I am eager to contribute my skills and knowledge to a dynamic and forward-thinking team.
+ Core frontend developer with a passion for creating aesthetically please UI for the web and also utilizing blockchain technology to create innovative solutions. Proficient in Javascript and React, and knowledgeable in Web 3.0 technologies, I am committed to delivering high-quality code and exceptional user experiences. With a keen attention to detail and a problem-solving mindset, I am eager to contribute my skills and knowledge to a dynamic and forward-thinking team.
 
-* 🌍  I'm based in Abuja
 * ✉️  You can contact me at [echelamoses@gmail.com](mailto:echelamoses@gmail.com)
-* 🧠  I'm enthusiastic about creating aesthetically pleasing UI for the web and Blockchain.
-* 🤝  I'm open to collaborating on Front-end & Decentralized Application
+* 🧠  I'm enthusiastic about creating aesthetically pleasing User Interface for both web and Blockchain.
+* 🤝  I'm open to collaborating on anything Web technology (web3 inclusive).
 
 ### Skills
 
