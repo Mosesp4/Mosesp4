@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Moses Echela
 ====================================================================================================================================
 
-Frontend & Solidity developer || Javascript || React || Web 3.0 || Blockchain technology
+Frontend Developer || Javascript || Typescript || React || Smart Contract with Solidity || Blockchain technology || Web3.0
 --------------------------------------------------------------------------
 
 Driven and skilled full-stack Solidity developer intern with a passion for utilizing blockchain technology to create innovative solutions. Proficient in Javascript and React, and knowledgeable in Web 3.0 technologies, I am committed to delivering high-quality code and exceptional user experiences. With a keen attention to detail and a problem-solving mindset, I am eager to contribute my skills and knowledge to a dynamic and forward-thinking team.
