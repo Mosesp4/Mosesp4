@@ -1,13 +1,13 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Moses Echela
 ====================================================================================================================================
 
-Frontend Developer || Javascript || Typescript || React || Smart Contract with Solidity || Blockchain technology || Web3.0
+Frontend | Full-Stack | Blockchain technology | Web3.0
 --------------------------------------------------------------------------
 
- Core frontend developer with a passion for creating aesthetically please UI for the web and also utilizing blockchain technology to create innovative solutions. Proficient in Javascript and React, and knowledgeable in Web 3.0 technologies, I am committed to delivering high-quality code and exceptional user experiences. With a keen attention to detail and a problem-solving mindset, I am eager to contribute my skills and knowledge to a dynamic and forward-thinking team.
+Experienced and passionate Full-stack (frontend-leaning) web Developer with a keen interest in Web3 blockchain. With quality years of experience in building, implementing, and maintaining end-to-end user-friendly web applications and interfaces. Proficient in modern frontend technologies such as HTML5, CSS3, JavaScript, TypeScript, and frameworks including React.js and Next.js, as well as Node, Express & MongoDB for backend architecture. Enthusiastic about leveraging blockchain technology to create innovative and secure applications. Adept at collaborating with design and cross-functional teams to deliver intuitive and visually appealing user experiences. Proven track record of working in Agile environments and a strong advocate for clean, efficient code and best practices. Open to full-time opportunities and great working conditions.
 
 * ✉️  You can contact me at [echelamoses@gmail.com](mailto:echelamoses@gmail.com)
-* 🧠  I'm enthusiastic about creating aesthetically pleasing User Interface for both web and Blockchain.
+* 🧠  I'm enthusiastic about creating user-centered web application and Interfaces.
 * 🤝  I'm open to collaborating on anything Web technology (web3 inclusive).
 
 ### Skills
